@@ -1,0 +1,3 @@
+h1. Coordenadas esféricas
+
+Esta Atividade Interativa (AI) expõe o conceito de coordenadas esféricas como a interseção de três superfícies: r = r_0 define a superfície esférica com centro na origem do sistema de referência; theta = theta_0 define o plano que (sempre) contém o eixo z e que faz com o eixo x o ângulo theta_0; phi = phi_0 define a superfície semi-cônica com vértice na origem do sistema de referência e abertura phi_0. A interseção dessas superfícies resulta no ponto identificado pelo terno (r_0, theta_0, phi_0).
